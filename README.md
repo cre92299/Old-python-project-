@@ -1,6 +1,1 @@
-# Old-python-project-
-I made this personal python project, it writes results into the report.txt . In the 'actions' dictionary, change 'action1-5' values, to something you like, maybe you could turn this into a check in sheet, every day it asks you how you feel 1 = bad 5 = amazing yada yada be creative :D,
------
-I wrote an example of what you could do, in 'main.py'  : ) 
-
-
+A program that asks you how was your day, 1 - 5, 1 being terrible, 5 being great, and reporting it to "report.txt" along with the current date
